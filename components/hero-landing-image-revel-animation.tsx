@@ -201,6 +201,28 @@ export default function LiquidRevealHero() {
                             transform="translate(-550 -225)"
                             className="border border-red-500"
                         />
+                        <image
+                            href="/masks/mask.webp"
+                            x="40%"
+                            y="-3%"
+                            width="1700"
+                            height="1000"
+                            scale={5}
+                            preserveAspectRatio="xMidYMid meet"
+                            transform="translate(-550 -225)"
+                            className="border border-red-500 md:hidden"
+                        />
+                        <image
+                            href="/masks/mask.webp"
+                            x="40%"
+                            y="-3%"
+                            width="1700"
+                            height="1000"
+                            scale={5}
+                            preserveAspectRatio="xMidYMid meet"
+                            transform="translate(-550 -225)"
+                            className="border border-red-500 md:hidden"
+                        />
 
                         {/* Mouse Reveal */}
                         <g filter="url(#goo)">

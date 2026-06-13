@@ -34,7 +34,7 @@ const LastdayImages = () => {
                         Last day of our college
                     </h1>
                     <p
-                        className={`${dynaPuff.className} mt-12 md:text-2xl md:leading-12 text-center md:text-start text-black`}
+                        className={`${dynaPuff.className} mt-12 text-xs md:text-2xl md:leading-12 text-center md:text-start text-black`}
                     >
                         3 years flew by faster than expected. <br /> Countless
                         memories, endless laughter, <br /> and incredible
@@ -48,7 +48,7 @@ const LastdayImages = () => {
                         Last day of our college
                     </h1>
                     <p
-                        className={`${dynaPuff.className} mt-6 md:text-2xl md:leading-12 text-center md:text-start text-black`}
+                        className={`${dynaPuff.className} mt-6 text-xs md:text-2xl md:leading-12 text-center md:text-start text-black`}
                     >
                         Not just photos, <br /> but memories we&apos;ll carry
                         for a lifetime. <br />
@@ -69,7 +69,7 @@ const LastdayImages = () => {
                                 clipPath:
                                     "polygon(0% 2%, 3% 0%, 8% 3%, 15% 1%, 22% 4%, 30% 1%, 38% 3%, 45% 0%, 52% 2%, 60% 0%, 68% 3%, 75% 1%, 82% 4%, 90% 2%, 97% 3%, 100% 0%, 100% 98%, 96% 100%, 88% 98%, 80% 100%, 72% 97%, 64% 100%, 56% 98%, 48% 100%, 40% 97%, 32% 100%, 24% 98%, 16% 100%, 8% 97%, 0% 100%)",
                             }}
-                            className="bg-[#e0d4fd] p-4 pb-0 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
+                            className="bg-[#e0d4fd] p-4 pb-6 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
                         >
                             <div className="overflow-hidden rounded-sm">
                                 <Image
@@ -82,7 +82,7 @@ const LastdayImages = () => {
                             </div>
 
                             <p
-                                className={`${kaushanScript.className} py-5 text-center text-md text-xs lg:text-base text-black`}
+                                className={`${kaushanScript.className} py-5 text-center text-md text-xs lg:text-base text-black hidden md:block`}
                             >
                                 Years may pass, but these memories will always
                                 stay fresh. ✨
@@ -108,7 +108,7 @@ const LastdayImages = () => {
                                 clipPath:
                                     "polygon(0% 2%, 3% 0%, 8% 3%, 15% 1%, 22% 4%, 30% 1%, 38% 3%, 45% 0%, 52% 2%, 60% 0%, 68% 3%, 75% 1%, 82% 4%, 90% 2%, 97% 3%, 100% 0%, 100% 98%, 96% 100%, 88% 98%, 80% 100%, 72% 97%, 64% 100%, 56% 98%, 48% 100%, 40% 97%, 32% 100%, 24% 98%, 16% 100%, 8% 97%, 0% 100%)",
                             }}
-                            className="bg-[#c5fbff] p-4 pb-2 md:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
+                            className="bg-[#c5fbff] p-4 pb-6 md:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
                         >
                             <div className="overflow-hidden rounded-sm">
                                 <Image
@@ -121,7 +121,7 @@ const LastdayImages = () => {
                             </div>
 
                             <p
-                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black`}
+                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black hidden md:block`}
                             >
                                 Years may pass, but these memories will always
                                 stay fresh. ✨
@@ -147,7 +147,7 @@ const LastdayImages = () => {
                                 clipPath:
                                     "polygon(0% 2%, 3% 0%, 8% 3%, 15% 1%, 22% 4%, 30% 1%, 38% 3%, 45% 0%, 52% 2%, 60% 0%, 68% 3%, 75% 1%, 82% 4%, 90% 2%, 97% 3%, 100% 0%, 100% 98%, 96% 100%, 88% 98%, 80% 100%, 72% 97%, 64% 100%, 56% 98%, 48% 100%, 40% 97%, 32% 100%, 24% 98%, 16% 100%, 8% 97%, 0% 100%)",
                             }}
-                            className="bg-[#fdf2d4] p-4 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
+                            className="bg-[#fdf2d4] p-4 pb-6 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
                         >
                             <div className="overflow-hidden rounded-sm">
                                 <Image
@@ -160,7 +160,7 @@ const LastdayImages = () => {
                             </div>
 
                             <p
-                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black`}
+                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black hidden md:block`}
                             >
                                 Years may pass, but these memories will always
                                 stay fresh. ✨
@@ -362,7 +362,7 @@ const LastdayImages = () => {
                         Last day of our college
                     </h1>
                     <p
-                        className={`${dynaPuff.className} mt-12 md:text-2xl md:leading-12 text-center md:text-start text-black`}
+                        className={`${dynaPuff.className} mt-12 text-xs md:text-2xl md:leading-12 text-center md:text-start text-black`}
                     >
                         3 years flew by faster than expected. <br /> Countless
                         memories, endless laughter, <br /> and incredible
@@ -376,7 +376,7 @@ const LastdayImages = () => {
                         Last day of our college
                     </h1>
                     <p
-                        className={`${dynaPuff.className} mt-6 md:text-2xl md:leading-12 text-center md:text-start text-black`}
+                        className={`${dynaPuff.className} mt-6 text-xs md:text-2xl md:leading-12 text-center md:text-start text-black`}
                     >
                         Not just photos, <br /> but memories we&apos;ll carry
                         for a lifetime. <br />
@@ -397,7 +397,7 @@ const LastdayImages = () => {
                                 clipPath:
                                     "polygon(0% 2%, 3% 0%, 8% 3%, 15% 1%, 22% 4%, 30% 1%, 38% 3%, 45% 0%, 52% 2%, 60% 0%, 68% 3%, 75% 1%, 82% 4%, 90% 2%, 97% 3%, 100% 0%, 100% 98%, 96% 100%, 88% 98%, 80% 100%, 72% 97%, 64% 100%, 56% 98%, 48% 100%, 40% 97%, 32% 100%, 24% 98%, 16% 100%, 8% 97%, 0% 100%)",
                             }}
-                            className="bg-[#e0d4fd] p-4 pb-2 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
+                            className="bg-[#e0d4fd] p-4 pb-6 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
                         >
                             <div className="overflow-hidden rounded-sm">
                                 <Image
@@ -410,7 +410,7 @@ const LastdayImages = () => {
                             </div>
 
                             <p
-                                className={`${kaushanScript.className} py-5 text-center text-md text-xs lg:text-base text-black`}
+                                className={`${kaushanScript.className} py-5 text-center text-md text-xs lg:text-base text-black hidden md:block `}
                             >
                                 Years may pass, but these memories will always
                                 stay fresh. ✨
@@ -436,7 +436,7 @@ const LastdayImages = () => {
                                 clipPath:
                                     "polygon(0% 2%, 3% 0%, 8% 3%, 15% 1%, 22% 4%, 30% 1%, 38% 3%, 45% 0%, 52% 2%, 60% 0%, 68% 3%, 75% 1%, 82% 4%, 90% 2%, 97% 3%, 100% 0%, 100% 98%, 96% 100%, 88% 98%, 80% 100%, 72% 97%, 64% 100%, 56% 98%, 48% 100%, 40% 97%, 32% 100%, 24% 98%, 16% 100%, 8% 97%, 0% 100%)",
                             }}
-                            className="bg-[#c5fbff] p-4 pb-2 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
+                            className="bg-[#c5fbff] p-4 pb-6 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
                         >
                             <div className="overflow-hidden rounded-sm">
                                 <Image
@@ -449,7 +449,7 @@ const LastdayImages = () => {
                             </div>
 
                             <p
-                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black`}
+                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black hidden md:block`}
                             >
                                 Years may pass, but these memories will always
                                 stay fresh. ✨
@@ -475,7 +475,7 @@ const LastdayImages = () => {
                                 clipPath:
                                     "polygon(0% 2%, 3% 0%, 8% 3%, 15% 1%, 22% 4%, 30% 1%, 38% 3%, 45% 0%, 52% 2%, 60% 0%, 68% 3%, 75% 1%, 82% 4%, 90% 2%, 97% 3%, 100% 0%, 100% 98%, 96% 100%, 88% 98%, 80% 100%, 72% 97%, 64% 100%, 56% 98%, 48% 100%, 40% 97%, 32% 100%, 24% 98%, 16% 100%, 8% 97%, 0% 100%)",
                             }}
-                            className="bg-[#fdf2d4] p-4 pb-2 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
+                            className="bg-[#fdf2d4] p-4 pb-6 lg:p-6 lg:pb-12 border border-black/20 dark:border-white/10"
                         >
                             <div className="overflow-hidden rounded-sm">
                                 <Image
@@ -488,7 +488,7 @@ const LastdayImages = () => {
                             </div>
 
                             <p
-                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black`}
+                                className={`${kaushanScript.className} py-5 text-center text-xs lg:text-base text-black hidden md:block`}
                             >
                                 Years may pass, but these memories will always
                                 stay fresh. ✨
