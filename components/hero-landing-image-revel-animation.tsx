@@ -193,9 +193,9 @@ export default function LiquidRevealHero() {
                         <image
                             href="/masks/mask.webp"
                             x="40%"
-                            y="5%"
-                            width="1600"
-                            height="900"
+                            y="0%"
+                            width="1700"
+                            height="1000"
                             scale={5}
                             preserveAspectRatio="xMidYMid meet"
                             transform="translate(-550 -225)"

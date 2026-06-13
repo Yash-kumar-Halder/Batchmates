@@ -1,7 +1,7 @@
 import Navigation from "@/components/navigation";
-import LastdayImages from "@/components/pages/lastday-images";
+import LastdayImages from "@/components/pages/lastday-images-photo-album";
 import ScrollIndicator from "@/components/scroll-indicator";
-import HeroLandingImageRevelAnimation from "@/components/videos/hero-landing-image-revel-animation";
+import HeroLandingImageRevelAnimation from "@/components/hero-landing-image-revel-animation";
 
 export default function Home() {
     return (
